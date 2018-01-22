@@ -10,7 +10,7 @@
 
 ### Header ###
 
-Content-Type: "spplication/json"
+Content-Type: "application/json"
 
 ### Body ###
 
